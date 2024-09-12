@@ -1,5 +1,7 @@
 # Node Initial Demo
 
+Cada carpeta té el seu `README.md` amb la descripció dels projectes i les instruccions d'arrencada.
+
 ### Project Structure
 
 Main structure of node.js project. Folders / files:

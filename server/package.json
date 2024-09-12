@@ -1,0 +1,20 @@
+{
+  "name": "server_xat",
+  "version": "1.0.0",
+  "description": "backend del xat",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app/app.js",
+    "dev": "nodemon app/app.js"
+  },
+  "author": "Omar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
